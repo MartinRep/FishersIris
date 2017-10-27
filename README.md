@@ -1,5 +1,6 @@
 # FishersIris
-Jupyter notebook Fisher's Iris data set.
+This is a Jupyter notebook project to import, manipulate and plot Fisher's Iris data set. The full assaignment is listed bellow.
+Images in the beginining of the Jupyter notebook might have not be displayed properly on Github page, due to use of plain HTML which is supported only in Jupyter notebook runtime. Please use Jupyter notebook for the pictures to display properly.  
 
 ## Problem set: Jupyter, pyplot and numpy
 These problems relate to [Jupyter](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Notebook%20Basics.html), [numpy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), and [pyplot](https://matplotlib.org/users/pyplot_tutorial.html).
